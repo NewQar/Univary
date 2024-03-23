@@ -1,0 +1,248 @@
+.han-profile,
+.han-profile * {
+  box-sizing: border-box;
+}
+.han-profile {
+  background: #ffffff;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+}
+.logo-3-1 {
+  width: 360px;
+  height: 183px;
+  position: absolute;
+  left: 0px;
+  top: 617px;
+  object-fit: cover;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 40px;
+  top: 740px;
+}
+.ellipse-4 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 124px;
+  top: 740px;
+}
+.ellipse-5 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 200px;
+  top: 740px;
+}
+.ellipse-6 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 280px;
+  top: 750px;
+}
+.rectangle-12 {
+  background: #fadbff;
+  border-radius: 16px;
+  width: 145px;
+  height: 42px;
+  position: absolute;
+  left: calc(50% - 153px);
+  top: 667px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-14 {
+  background: #fadbff;
+  border-radius: 16px;
+  width: 306px;
+  height: 95px;
+  position: absolute;
+  left: calc(50% - 153px);
+  top: 542px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-13 {
+  background: #fadbff;
+  border-radius: 16px;
+  width: 145px;
+  height: 42px;
+  position: absolute;
+  left: calc(50% - -8px);
+  top: 667px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.photo-1702211682-1 {
+  border-radius: 49px;
+  width: 373px;
+  height: 697px;
+  position: absolute;
+  left: 0px;
+  top: -260px;
+  box-shadow: 0px 11px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.ellipse-2 {
+  background: #f9d3ff;
+  border-radius: 50%;
+  width: 76px;
+  height: 73px;
+  position: absolute;
+  left: 22px;
+  top: 20px;
+  box-shadow: 0px 7px 4px 1px rgba(0, 0, 0, 0.63);
+}
+.logo-2-1 {
+  width: 75px;
+  height: 67px;
+  position: absolute;
+  left: calc(50% - 161px);
+  top: calc(50% - 375px);
+  object-fit: cover;
+}
+.nurizzah-hanani {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 124px);
+  top: calc(50% - -62px);
+  width: 248px;
+  height: 34px;
+}
+._2nd-year-computer-science-student {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 124px);
+  top: calc(50% - -94px);
+  width: 248px;
+  height: 34px;
+}
+.universiti-teknologi-mara {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 124px);
+  top: calc(50% - -108px);
+  width: 248px;
+  height: 34px;
+}
+.followers {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 145px);
+  top: calc(50% - -192px);
+  width: 96px;
+  height: 34px;
+}
+.following {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 48px);
+  top: calc(50% - -192px);
+  width: 96px;
+  height: 34px;
+}
+.likes {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -48px);
+  top: calc(50% - -192px);
+  width: 96px;
+  height: 34px;
+}
+._12-3-k {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 137px);
+  top: calc(50% - -163px);
+  width: 88px;
+  height: 34px;
+}
+._15 {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 44px);
+  top: calc(50% - -163px);
+  width: 88px;
+  height: 34px;
+}
+._92-1-k {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -52px);
+  top: calc(50% - -163px);
+  width: 88px;
+  height: 34px;
+}
+.contact {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 176px);
+  top: calc(50% - -275px);
+  width: 191px;
+  height: 26px;
+}
+.history {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 15px);
+  top: calc(50% - -275px);
+  width: 191px;
+  height: 26px;
+}

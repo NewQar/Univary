@@ -1,0 +1,156 @@
+.languages,
+.languages * {
+  box-sizing: border-box;
+}
+.languages {
+  background: #eebdf5;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+  mix-blend-mode: plus-lighter;
+}
+.logo-3-1 {
+  width: 360px;
+  height: 183px;
+  position: absolute;
+  left: 0px;
+  top: 617px;
+  object-fit: cover;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 40px;
+  top: 740px;
+}
+.ellipse-4 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 124px;
+  top: 740px;
+}
+.ellipse-5 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 200px;
+  top: 740px;
+}
+.ellipse-6 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 280px;
+  top: 750px;
+}
+.logo-2-1 {
+  width: 162px;
+  height: 132px;
+  position: absolute;
+  left: calc(50% - 196px);
+  top: calc(50% - 400px);
+  object-fit: cover;
+}
+.languages2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Graduate-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 81px;
+  top: 140px;
+}
+.lan-1 {
+  width: 74px;
+  height: 74px;
+  position: absolute;
+  left: 270px;
+  top: 26px;
+  mix-blend-mode: darken;
+  object-fit: cover;
+}
+.a-child-communicates-including-how-they-present-their-feelings-and-emotions-both-to-other-people-and-to-themselves {
+  color: #000000;
+  text-align: center;
+  font-family: "Podkova-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 18px;
+  top: 176px;
+  width: 312px;
+}
+.the-language-tree-child-language-development {
+  color: #000000;
+  text-align: center;
+  font-family: "Podkova-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 204px;
+  top: 427px;
+  width: 156px;
+}
+.screenshot-486-1 {
+  width: 228px;
+  height: 105px;
+  position: absolute;
+  left: -9px;
+  top: 554px;
+  object-fit: cover;
+}
+.screenshot-485-1 {
+  width: 192px;
+  height: 107px;
+  position: absolute;
+  left: 11px;
+  top: 400px;
+  mix-blend-mode: darken;
+  object-fit: cover;
+}
+.screenshot-484-1 {
+  width: 192px;
+  height: 107px;
+  position: absolute;
+  left: 11px;
+  top: 249px;
+  mix-blend-mode: plus-darker;
+  object-fit: cover;
+}
+.language-the-first-5-years-of-life-of-learning {
+  color: #000000;
+  text-align: center;
+  font-family: "Podkova-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 203px;
+  top: 256px;
+  width: 147px;
+}
+.top-tips-for-speech-and-language-development-in-under-5-s-complete-animation {
+  color: #000000;
+  text-align: center;
+  font-family: "Podkova-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 198px;
+  top: 564px;
+  width: 146px;
+}

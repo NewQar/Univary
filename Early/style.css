@@ -1,0 +1,191 @@
+.early,
+.early * {
+  box-sizing: border-box;
+}
+.early {
+  background: #eebdf5;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+  mix-blend-mode: plus-lighter;
+}
+.logo-3-1 {
+  width: 360px;
+  height: 183px;
+  position: absolute;
+  left: 0px;
+  top: 617px;
+  object-fit: cover;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 40px;
+  top: 740px;
+}
+.ellipse-4 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 124px;
+  top: 740px;
+}
+.ellipse-5 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 200px;
+  top: 740px;
+}
+.ellipse-6 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 280px;
+  top: 750px;
+}
+.rectangle-3 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 309px;
+  height: 110px;
+  position: absolute;
+  left: calc(50% - 154px);
+  top: 205px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 309px;
+  height: 110px;
+  position: absolute;
+  left: calc(50% - 154px);
+  top: 326px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-5 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 309px;
+  height: 110px;
+  position: absolute;
+  left: calc(50% - 154px);
+  top: 450px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-6 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 309px;
+  height: 110px;
+  position: absolute;
+  left: calc(50% - 154px);
+  top: 580px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.physical {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 147px;
+  top: 365px;
+}
+.logo-2-1 {
+  width: 162px;
+  height: 132px;
+  position: absolute;
+  left: calc(50% - 81px);
+  top: calc(50% - 400px);
+  object-fit: cover;
+}
+.emotional {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 147px;
+  top: 250px;
+}
+.phy-1 {
+  width: 96px;
+  height: 83px;
+  position: absolute;
+  left: 28px;
+  top: 340px;
+  object-fit: cover;
+}
+.lan-1 {
+  width: 74px;
+  height: 65px;
+  position: absolute;
+  left: 44px;
+  top: 468px;
+  object-fit: cover;
+}
+.cog-1 {
+  width: 92px;
+  height: 90px;
+  position: absolute;
+  left: 42px;
+  top: 592px;
+  object-fit: cover;
+}
+.languages {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 147px;
+  top: 489px;
+}
+.cognitive-skills {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 147px;
+  top: 625px;
+}
+.early-childhood-education {
+  color: #000000;
+  text-align: center;
+  font-family: "Graduate-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 20px;
+  top: 126px;
+  width: 329px;
+}
+.emo-1 {
+  width: 70px;
+  height: 80px;
+  position: absolute;
+  left: 48px;
+  top: 216px;
+  object-fit: cover;
+}
