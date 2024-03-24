@@ -1,0 +1,240 @@
+.profile,
+.profile * {
+  box-sizing: border-box;
+}
+.profile {
+  background: #eebdf5;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+  mix-blend-mode: plus-lighter;
+}
+.logo-3-1 {
+  width: 360px;
+  height: 183px;
+  position: absolute;
+  left: 0px;
+  top: 617px;
+  object-fit: cover;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 40px;
+  top: 740px;
+}
+.ellipse-4 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 124px;
+  top: 740px;
+}
+.ellipse-5 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 200px;
+  top: 740px;
+}
+.ellipse-6 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 280px;
+  top: 750px;
+}
+.rectangle-2 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 333px;
+  height: 122px;
+  position: absolute;
+  left: calc(50% - 165px);
+  top: 151px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-6 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 333px;
+  height: 290px;
+  position: absolute;
+  left: calc(50% - 167px);
+  top: 300px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-7 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 333px;
+  height: 103px;
+  position: absolute;
+  left: calc(50% - 167px);
+  top: 610px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.logo-2-1 {
+  width: 162px;
+  height: 132px;
+  position: absolute;
+  left: calc(50% - 80px);
+  top: calc(50% - 390px);
+  object-fit: cover;
+}
+.pro-1 {
+  width: 70px;
+  height: 67px;
+  position: absolute;
+  left: 27px;
+  top: 158px;
+  mix-blend-mode: darken;
+  object-fit: cover;
+}
+.yusuf-al-qardhawi {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 110px;
+  top: 159px;
+}
+._3rd-year-computer-science-student {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 110px;
+  top: 185px;
+}
+.universiti-teknologi-mara {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: absolute;
+  left: 111px;
+  top: 202px;
+}
+.history {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 50px;
+  top: 324px;
+}
+.messages {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 41px;
+  top: 628px;
+}
+.liked {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 54px;
+  top: 434px;
+}
+.saved {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 50px;
+  top: 379px;
+}
+.tags-and-mention {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 50px;
+  top: 546px;
+}
+.comments {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 50px;
+  top: 490px;
+}
+.rectangle-4 {
+  border-radius: 0px;
+  width: 109px;
+  height: 29px;
+  position: absolute;
+  left: calc(50% - 130px);
+  top: calc(50% - 167px);
+  overflow: visible;
+  mix-blend-mode: darken;
+}
+.edit {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: absolute;
+  left: 82px;
+  top: 239px;
+  width: 36px;
+  height: 15px;
+}
+.rectangle-5 {
+  border-radius: 0px;
+  width: 109px;
+  height: 29px;
+  position: absolute;
+  left: calc(50% - -18px);
+  top: calc(50% - 166px);
+  overflow: visible;
+  mix-blend-mode: darken;
+}
+.share {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-SemiBold", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  position: absolute;
+  left: 227px;
+  top: 239px;
+  width: 52px;
+  height: 15px;
+}

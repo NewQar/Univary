@@ -1,0 +1,259 @@
+.university,
+.university * {
+  box-sizing: border-box;
+}
+.university {
+  background: #eebdf5;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+  mix-blend-mode: plus-lighter;
+}
+.logo-3-1 {
+  width: 360px;
+  height: 183px;
+  position: absolute;
+  left: 0px;
+  top: 617px;
+  object-fit: cover;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 40px;
+  top: 740px;
+}
+.ellipse-4 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 124px;
+  top: 740px;
+}
+.ellipse-5 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 200px;
+  top: 740px;
+}
+.ellipse-6 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 280px;
+  top: 750px;
+}
+.rectangle-3 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 305px;
+  height: 65px;
+  position: absolute;
+  left: calc(50% - 150px);
+  top: 205px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.logo-2-1 {
+  width: 162px;
+  height: 132px;
+  position: absolute;
+  left: calc(50% - 81px);
+  top: calc(50% - 400px);
+  object-fit: cover;
+}
+.ui-tm {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 218px;
+  top: 225px;
+}
+.university2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Graduate-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 20px;
+  top: 126px;
+  width: 329px;
+}
+.ui-tm-logo-tumb-1 {
+  width: 110px;
+  height: 56px;
+  position: absolute;
+  left: 50px;
+  top: 210px;
+  object-fit: cover;
+}
+.rectangle-4 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 305px;
+  height: 65px;
+  position: absolute;
+  left: calc(50% - 148px);
+  top: 284px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-5 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 305px;
+  height: 65px;
+  position: absolute;
+  left: calc(50% - 148px);
+  top: 367px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-6 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 305px;
+  height: 65px;
+  position: absolute;
+  left: calc(50% - 148px);
+  top: 450px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-7 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 305px;
+  height: 65px;
+  position: absolute;
+  left: calc(50% - 148px);
+  top: 533px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-8 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 305px;
+  height: 65px;
+  position: absolute;
+  left: calc(50% - 150px);
+  top: 616px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.usm-1 {
+  width: 116px;
+  height: 62px;
+  position: absolute;
+  left: 47px;
+  top: 287px;
+  object-fit: cover;
+}
+.usm {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 223px;
+  top: 305px;
+}
+.um-1 {
+  width: 154px;
+  height: 80px;
+  position: absolute;
+  left: 32px;
+  top: 362px;
+  object-fit: cover;
+}
+.uthm {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 416px;
+  top: 435px;
+  width: 14px;
+  height: 7px;
+}
+.um {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 229px;
+  top: 384px;
+}
+.harvard {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 194px;
+  top: 465px;
+}
+.upm-1 {
+  width: 116px;
+  height: 50px;
+  position: absolute;
+  left: 47px;
+  top: 541px;
+  object-fit: cover;
+}
+.upm {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 222px;
+  top: 555px;
+}
+.ums-1 {
+  width: 113px;
+  height: 60px;
+  position: absolute;
+  left: 43px;
+  top: 620px;
+  object-fit: cover;
+}
+.usm2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 223px;
+  top: 636px;
+}
+.harvard-university-coat-of-arms-1 {
+  width: 61px;
+  height: 60px;
+  position: absolute;
+  left: calc(50% - 105px);
+  top: 450px;
+  object-fit: cover;
+}

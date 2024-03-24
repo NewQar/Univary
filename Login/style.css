@@ -1,0 +1,136 @@
+.login,
+.login * {
+  box-sizing: border-box;
+}
+.login {
+  background: #f9d3ff;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+}
+.logo-2-1 {
+  width: 196px;
+  height: 130px;
+  position: absolute;
+  left: calc(50% - 216px);
+  top: calc(50% - 400px);
+  mix-blend-mode: plus-darker;
+  object-fit: cover;
+}
+.rectangle-10 {
+  background: #ffffff;
+  border-radius: 35px;
+  width: 360px;
+  height: 582px;
+  position: absolute;
+  left: 0px;
+  top: 319px;
+  box-shadow: 0px 6px 10.3px 17px rgba(0, 0, 0, 0.25);
+}
+.don-t-have-an-account-sign-up {
+  text-align: center;
+  font-family: "Hanuman-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 151px);
+  top: calc(50% - -320px);
+  width: 302px;
+}
+.don-t-have-an-account-sign-up-span {
+  color: #000000;
+  font-family: "Hanuman-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.don-t-have-an-account-sign-up-span2 {
+  color: #316bb0;
+  font-family: "Hanuman-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.rectangle-4 {
+  border-radius: 0px;
+  width: 288.5px;
+  height: 49px;
+  position: absolute;
+  left: calc(50% - 148px);
+  top: calc(50% - 21px);
+  overflow: visible;
+}
+.email {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 46px;
+  top: 394px;
+  width: 102px;
+  height: 45px;
+}
+.rectangle-6 {
+  border-radius: 0px;
+  width: 288.5px;
+  height: 49px;
+  position: absolute;
+  left: calc(50% - 150px);
+  top: calc(50% - -69px);
+  overflow: visible;
+}
+.password {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -22px;
+  top: 483px;
+  width: 256px;
+  height: 45px;
+}
+.rectangle-42 {
+  border-radius: 0px;
+  width: 128px;
+  height: 49px;
+  position: absolute;
+  left: calc(50% - 72px);
+  top: calc(50% - -207px);
+  overflow: visible;
+}
+.login2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 121px;
+  top: 616px;
+  width: 101px;
+  height: 31px;
+}
+.we-re-excited-to-see-you {
+  color: #000000;
+  text-align: center;
+  font-family: "LuckiestGuy-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 29px;
+  top: 260px;
+  width: 302px;
+}
+.welcome-back {
+  color: #000000;
+  text-align: center;
+  font-family: "LuckiestGuy-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  left: 29px;
+  top: 160px;
+  width: 302px;
+}

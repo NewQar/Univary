@@ -1,0 +1,461 @@
+.main,
+.main * {
+  box-sizing: border-box;
+}
+.main {
+  background: #eebdf5;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+  mix-blend-mode: plus-lighter;
+}
+.rectangle-13 {
+  background: #ffffff;
+  border-radius: 16px;
+  opacity: 0.6000000238418579;
+  width: 333px;
+  height: 96px;
+  position: absolute;
+  left: calc(50% - 170px);
+  top: 631px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.your-education-info {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 40px);
+  top: calc(50% - -237px);
+  width: 195px;
+  height: 34px;
+}
+.cs-230-degree-in-science-computer {
+  color: #000000;
+  text-align: left;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 164px;
+  top: 659px;
+  width: 168px;
+  height: 38px;
+}
+.semester-6 {
+  color: #000000;
+  text-align: left;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 164px;
+  top: 689px;
+  width: 168px;
+  height: 38px;
+}
+.university-teknologi-mara {
+  color: #000000;
+  text-align: left;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 12.5px;
+  line-height: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 164px;
+  top: 703px;
+  width: 161px;
+  height: 16px;
+}
+.logo-2-1 {
+  width: 171px;
+  height: 149px;
+  position: absolute;
+  left: calc(50% - 96px);
+  top: calc(50% - 396px);
+  object-fit: cover;
+}
+.rectangle-2 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 333px;
+  height: 120px;
+  position: absolute;
+  left: calc(50% - 168px);
+  top: 199px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-12 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 333px;
+  height: 110px;
+  position: absolute;
+  left: calc(50% - 168px);
+  top: 509px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-5 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 105px;
+  height: 124px;
+  position: absolute;
+  left: calc(50% - 167px);
+  top: 373px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-6 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 104px;
+  height: 124px;
+  position: absolute;
+  left: calc(50% - 54px);
+  top: 373px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-8 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 71px;
+  height: 26px;
+  position: absolute;
+  left: calc(50% - 164px);
+  top: 333px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-9 {
+  background: #e8e8e8;
+  border-radius: 16px;
+  width: 71px;
+  height: 26px;
+  position: absolute;
+  left: calc(50% - 81px);
+  top: 333px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-10 {
+  background: #e8e8e8;
+  border-radius: 16px;
+  width: 71px;
+  height: 26px;
+  position: absolute;
+  left: calc(50% - -2px);
+  top: 333px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-11 {
+  background: #e8e8e8;
+  border-radius: 16px;
+  width: 71px;
+  height: 26px;
+  position: absolute;
+  left: calc(50% - -84px);
+  top: 334px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-7 {
+  background: #ffffff;
+  border-radius: 16px;
+  width: 104px;
+  height: 124px;
+  position: absolute;
+  left: calc(50% - -56px);
+  top: 373px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-4 {
+  background: #040404;
+  border-radius: 16px;
+  width: 333px;
+  height: 44px;
+  position: absolute;
+  left: calc(50% - 168px);
+  top: 142px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.untitled-design-2-1 {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 22px;
+  top: 150px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.live-now {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 15px);
+  top: calc(50% - 190px);
+  width: 106px;
+  height: 34px;
+}
+.your-class {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 33px);
+  top: calc(50% - -113px);
+  width: 135px;
+  height: 34px;
+}
+.logo-4-1 {
+  width: 123px;
+  height: 99px;
+  position: absolute;
+  left: 27px;
+  top: 207px;
+  object-fit: cover;
+}
+.logo-4-2 {
+  width: 123px;
+  height: 87px;
+  position: absolute;
+  left: 27px;
+  top: 517px;
+  object-fit: cover;
+}
+.cinematography-101-week-10 {
+  color: #000000;
+  text-align: left;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 165px;
+  top: 247px;
+  width: 158px;
+  height: 54px;
+}
+.csc-566-image-processing-week-3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 165px;
+  top: 541px;
+  width: 169px;
+  height: 38px;
+}
+._2-00-pm-4-00-pm {
+  color: #000000;
+  text-align: left;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 165px;
+  top: 578px;
+  width: 105px;
+  height: 18px;
+}
+.featured {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 25px;
+  top: 339px;
+  width: 53px;
+  height: 23px;
+}
+.following {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 108px;
+  top: 340px;
+  width: 53px;
+  height: 23px;
+}
+.watched {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 191px;
+  top: 339px;
+  width: 53px;
+  height: 23px;
+}
+.new {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 273px;
+  top: 339px;
+  width: 53px;
+  height: 23px;
+}
+.universiti-teknologi-mara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 400;
+  opacity: 0.4699999988079071;
+  position: absolute;
+  left: 64px;
+  top: 159px;
+  width: 259px;
+  height: 54px;
+}
+.standford-university {
+  color: #000000;
+  text-align: left;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 165px;
+  top: 284px;
+  width: 161px;
+  height: 16px;
+}
+.dr-masnizah-mohd {
+  color: #000000;
+  text-align: left;
+  font-family: "Karma-Bold", sans-serif;
+  font-size: 12.5px;
+  line-height: 16px;
+  font-weight: 700;
+  position: absolute;
+  left: 165px;
+  top: 593px;
+  width: 161px;
+  height: 16px;
+}
+.skills {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 30px;
+  top: 475px;
+  width: 70px;
+  height: 16px;
+}
+.education {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 142px;
+  top: 476px;
+  width: 70px;
+  height: 16px;
+}
+.knowledge {
+  color: #000000;
+  text-align: center;
+  font-family: "Karma-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: absolute;
+  left: 253px;
+  top: 475px;
+  width: 70px;
+  height: 16px;
+}
+.logo-5-1 {
+  width: 315px;
+  height: 103px;
+  position: absolute;
+  left: calc(50% - 161px);
+  top: 383px;
+  object-fit: cover;
+}
+.ui-tm-logo-1 {
+  width: 138px;
+  height: 76px;
+  position: absolute;
+  left: 19px;
+  top: 637px;
+  object-fit: cover;
+}
+.logo-3-1 {
+  width: 360px;
+  height: 183px;
+  position: absolute;
+  left: 0px;
+  top: 622px;
+  object-fit: cover;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 40px;
+  top: 740px;
+}
+.ellipse-4 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 124px;
+  top: 740px;
+}
+.ellipse-5 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 200px;
+  top: 740px;
+}
+.ellipse-6 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  opacity: 0;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 280px;
+  top: 750px;
+}
